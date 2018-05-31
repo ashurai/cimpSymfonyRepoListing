@@ -1,7 +1,7 @@
 # cimpSymfonyRepoListing
 Listing Symfony Repositories using githubg api 2.0
 
-#Installation
+# Installation
 To Install this repositories run below commond from your terminal
 
 `git clone https://github.com/ashurai/cimpSymfonyRepoListing.git`
