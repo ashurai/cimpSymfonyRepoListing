@@ -1,0 +1,7 @@
+app:
+  resource: "@AppBundle/Resources/config/routing.yml"
+  prefix:   /
+
+ahomepage:
+  defaults: { _controller: AppBundle:Default:index }
+  path: /
