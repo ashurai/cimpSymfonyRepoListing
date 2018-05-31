@@ -13,3 +13,11 @@ After having repository on your local system run Install the symfony with all de
 Note:- Before running this command make inside a "var" directory is available else create a "var" directory inside application root structure because I don't want to make hectic to you with too many cache files commiting or downloading, this is specially required in case you are running on Ubuntu machine.
 
 Inside twig file added a commented dump section which could help to find more fields if you want to list extra parameters from github APi's.
+
+Used Github Api to list repos:
+
+`https://github.com/knplabs/php-github-api`
+
+To listing of all Symfony repos:
+
+`https://github.com/symfony`
